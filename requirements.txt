@@ -1,0 +1,8 @@
+ipykernel
+pandas
+langchain-community 
+faiss-cpu 
+langchain-openai 
+tiktoken
+langchain
+langchain-google-vertexai
